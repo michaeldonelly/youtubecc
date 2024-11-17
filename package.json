@@ -10,12 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/node": "^3.0.17",
+    "axios": "^1.6.7",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "youtube-captions-scraper": "^2.0.0",
-    "axios": "^1.6.7",
-    "@vercel/node": "^3.0.17"
+    "youtube-captions-scraper": "^2.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
